@@ -1,5 +1,5 @@
 {
-  "name": "nest-config",
+  "name": "@fbnvdblck/nest-config",
   "version": "0.1.0",
   "description": "A more high level layer for NestJS configuration",
   "author": {
