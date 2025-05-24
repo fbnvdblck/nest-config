@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "target": "ES2024",
+    "declaration": true,
+    "strict": true
+  },
+  "include": ["src/**/*.ts"]
+}
