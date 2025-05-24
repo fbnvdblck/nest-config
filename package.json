@@ -12,6 +12,9 @@
     "nestjs",
     "config"
   ],
+  "repository": {
+    "url": "https://github.com/fbnvdblck/nest-config"
+  },
   "type": "module",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
