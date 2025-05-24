@@ -13,7 +13,7 @@
     "config"
   ],
   "repository": {
-    "url": "https://github.com/fbnvdblck/nest-config"
+    "url": "https://github.com/fbnvdblck/nest-config.git"
   },
   "type": "module",
   "main": "dist/index.js",
