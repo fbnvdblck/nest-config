@@ -1,6 +1,6 @@
 {
   "name": "@fbnvdblck/nest-config",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "description": "A more high level layer for NestJS configuration",
   "author": {
     "name": "Fabien Vanden Bulck",
