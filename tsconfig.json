@@ -4,7 +4,9 @@
     "moduleResolution": "node",
     "target": "ES2024",
     "declaration": true,
-    "strict": true
+    "strict": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true
   },
   "include": ["src/**/*.ts"]
 }
