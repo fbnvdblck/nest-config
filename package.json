@@ -1,6 +1,6 @@
 {
   "name": "@fbnvdblck/nest-config",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A more high level layer for NestJS configuration",
   "author": {
     "name": "Fabien Vanden Bulck",
@@ -16,8 +16,8 @@
     "url": "https://github.com/fbnvdblck/nest-config.git"
   },
   "type": "module",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "main": "dist/index.cjs",
+  "types": "dist/index.d.cts",
   "files": [
     "/dist"
   ],
